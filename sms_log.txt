@@ -1,0 +1,120 @@
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:55:07 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQ58ea36b784869ce7e36697f15f37ff4a', 'Twilio-Request-Duration': '0.125', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SM58ea36b784869ce7e36697f15f37ff4a
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:55:12 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQa5186c3e7ddb51efaccc896756f94555', 'Twilio-Request-Duration': '0.121', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SMa5186c3e7ddb51efaccc896756f94555
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:55:18 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQ267b06190227db8799e3720e5f37cfd5', 'Twilio-Request-Duration': '0.116', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SM267b06190227db8799e3720e5f37cfd5
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:55:23 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQce2cab9458dca261546ef9d93d52349c', 'Twilio-Request-Duration': '0.114', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SMce2cab9458dca261546ef9d93d52349c
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:55:29 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQc1abbf6e54599f788c6f0b0a14daafdd', 'Twilio-Request-Duration': '0.119', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SMc1abbf6e54599f788c6f0b0a14daafdd
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:55:34 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQe0fb923dae0d3ba6afcba5331be1039c', 'Twilio-Request-Duration': '0.122', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SMe0fb923dae0d3ba6afcba5331be1039c
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:55:40 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQff200776dee9e50391bbcdf452f07d72', 'Twilio-Request-Duration': '0.110', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SMff200776dee9e50391bbcdf452f07d72
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 17:59:59 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '846', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQ4ca77fcdccab470c47ae4afecee2fb64', 'Twilio-Request-Duration': '0.135', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SM4ca77fcdccab470c47ae4afecee2fb64
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 18:03:08 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '844', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQc8c962e2620e99c7f7767d3d44ff2833', 'Twilio-Request-Duration': '0.133', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SMc8c962e2620e99c7f7767d3d44ff2833
+INFO:twilio.http_client:-- BEGIN Twilio API Request --
+INFO:twilio.http_client:POST Request: https://api.twilio.com/2010-04-01/Accounts/ACbc54eeac8efd2bd527783d677406e080/Messages.json
+INFO:twilio.http_client:Headers:
+INFO:twilio.http_client:User-Agent : twilio-python/8.10.2 (Linux x86_64) Python/3.11.6
+INFO:twilio.http_client:X-Twilio-Client : python-8.10.2
+INFO:twilio.http_client:Accept-Charset : utf-8
+INFO:twilio.http_client:Content-Type : application/x-www-form-urlencoded
+INFO:twilio.http_client:Accept : application/json
+INFO:twilio.http_client:-- END Twilio API Request --
+INFO:twilio.http_client:Response Status Code: 201
+INFO:twilio.http_client:Response Headers: {'Date': 'Fri, 24 Nov 2023 18:03:14 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '844', 'Connection': 'keep-alive', 'Twilio-Request-Id': 'RQ2828a6e1af57a300d780f209e8c0d164', 'Twilio-Request-Duration': '0.128', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, Idempotency-Key', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'Twilio-Concurrent-Requests': '1', 'X-Shenanigans': 'none', 'X-Powered-By': 'AT-5000', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com'}
+INFO:root:Message sent successfully. SID: SM2828a6e1af57a300d780f209e8c0d164
